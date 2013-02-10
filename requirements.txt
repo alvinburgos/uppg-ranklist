@@ -1,0 +1,23 @@
+Chameleon==2.11
+Mako==0.7.3
+MarkupSafe==0.15
+MySQL-python==1.2.4
+PasteDeploy==1.5.0
+Pygments==1.6
+SQLAlchemy==0.8.0b2
+WebOb==1.2.3
+distribute==0.6.34
+lxml==3.1beta1
+pyramid==1.4
+pyramid-debugtoolbar==1.0.4
+pyramid-tm==0.7
+-e git+https://github.com/alvinburgos/uppg-ranklist.git@0876bd6442c2a529ce401ffdfd1cdfe626de3d3b#egg=ranklist-dev
+repoze.lru==0.6
+transaction==1.4.0
+translationstring==1.1
+venusian==1.0a7
+waitress==0.8.2
+wsgiref==0.1.2
+zope.deprecation==4.0.2
+zope.interface==4.0.3
+zope.sqlalchemy==0.7.1
